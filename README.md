@@ -215,4 +215,5 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8G8PKPEADPD42&source=url">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
 </a># cheatDay.github.io
+
 # cheatDay.github.io

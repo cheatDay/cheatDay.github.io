@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
-email:       ''
-description: ''
+title:       Little better code than 24 hours ago
+email:       'hahn.sangmin@gmail.com'
+description: 'iOS developer'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'cheatDay.github.io' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'github.com/cheatDay'
 instagram:   ''
 facebook:    ''
 
