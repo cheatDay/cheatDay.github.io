@@ -10,7 +10,7 @@ title:       Little better code than 24 hours ago
 email:       'hahn.sangmin@gmail.com'
 description: 'iOS developer'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'cheatDay.github.io' # The base hostname & protocol for your site
+url:         'https://cheatday.github.io/' # The base hostname & protocol for your site
 twitter:     ''
 github:      'github.com/cheatDay'
 instagram:   ''
