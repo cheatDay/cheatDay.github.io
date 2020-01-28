@@ -3,7 +3,7 @@ layout: post
 title: "[FixNote] Set 이용하여 중복 제거"
 description: "지도 위에 POI 마커 관리를 위해 Swift Set 자료구조 사용하기"
 categories: FixNote
-tags: [programming, swift, Set, 자료구조,]
+tags: [programming, swift, Set, 자료구조]
 redirect_from:
    - /2019/01/19
 ---

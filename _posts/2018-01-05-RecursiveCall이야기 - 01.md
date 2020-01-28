@@ -2,6 +2,7 @@
 layout: post
 title: "Recursive Call - 1"
 description: "하노이 탑으로 재귀 호출 이해해보기"
+featured: true
 categories: Programming
 tags: [programming, recursive, swift]
 redirect_from:
